@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Bible App, Smart Business App, SAGA System**
 
-- 🌱 I’m currently learning **Clean Architecture, Haskell, Java, TDD**
+- 🌱 I’m currently learning **Clean Architecture, Haskell, Ruby, TDD**
 
-- 💬 Feel free to ask me about **Node.js, Javascript, Typescript, Express.js, MongoDB, PostgreSQL**
+- 💬 Feel free to ask me about **Node.js, Javascript, Java, C, Typescript, Express.js, MongoDB, PostgreSQL**
 
 - 📫 Feel free to reach me at my social medias or at **developer.lucas24@gmail.com**
 
