@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bible App, Smart Business App, SAGA System**
 
-- 🌱 I’m currently learning **Clean Architecture, Haskell, Java, Unit Testing**
+- 🌱 I’m currently learning **Clean Architecture, Haskell, Java, TDD**
 
 - 💬 Feel free to ask me about **Node.js, Javascript, Typescript, Express.js, MongoDB, PostgreSQL**
 
