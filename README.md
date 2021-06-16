@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bible App, Smart Business App, SAGA System**
 
-- 🎓 &nbsp; Studying Computer **Engineering at Catholic University of Angola**
+- 🎓 Studying Computer Engineering at **Catholic University of Angola**
 
 - 🌱 I’m currently learning **Clean Architecture, Haskell, Ruby, TDD**
 
