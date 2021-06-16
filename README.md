@@ -3,7 +3,7 @@
 <div style="display: flex; flex-direction: column;">
     <h1>Hi 👋🏼, I'm Lucas Almeida</h1>
     <h3 style="max-width: 512px;">Results-oriented programmer switching comfortably between architectures, design and implementation. Comfortable team work or self-directed environment.</h3>
-</div><br />
+</div>
 
 - 🔭 I’m currently working on **Bible App, Smart Business App, SAGA System**
 
