@@ -18,11 +18,13 @@
 <h3>These are some of my skills:</h3>
 
 - [**Node.js**](https://nodejs.org/en/)
+- [**Java**](https://www.oracle.com/java/)
 - [**JavaScript**](https://www.javascript.com/)
 - [**TypeScript**](https://www.typescriptlang.org/)
 - [**Express.js**](https://expressjs.com/)
 - [**MongoDb**](https://www.mongodb.com/)
 - [**PostgreSQL**](https://www.postgresql.org/)
+- [**SpringBoot**](https://spring.io/projects/spring-boot)
 
 <br /><h3>Follow me on social medias so you can be part of my development.</h3>
 
