@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Clean Architecture, Haskell, Ruby, TDD**
 
-- 💬 Feel free to ask me about **Node.js, JavaScript, Java, C, TypeScript, Express.js, MongoDB, PostgreSQL**
+- 💬 Feel free to ask me about **Node.js, JavaScript, Java, C, TypeScript, Express.js, MongoDB, PostgreSQ, SpringBoot**
 
 - 📫 Feel free to reach me at my social medias or at **developer.lucas24@gmail.com**
 
