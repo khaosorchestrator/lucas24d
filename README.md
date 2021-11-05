@@ -24,7 +24,7 @@
 - [**Express.js**](https://expressjs.com/)
 - [**MongoDb**](https://www.mongodb.com/)
 - [**PostgreSQL**](https://www.postgresql.org/)
-- [**SpringBoot**](https://spring.io/projects/spring-boot)
+- [**Spring Boot**](https://spring.io/projects/spring-boot)
 
 <br /><h3>Follow me on social medias so you can be part of my development.</h3>
 
