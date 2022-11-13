@@ -29,9 +29,9 @@
 <br /><h3>Follow me on social medias so you can be part of my development.</h3>
 
 <p align="left">
-<a href="https://twitter.com/lucas24al" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lucas24al" height="20" width="20" /></a>
+<a href="https://twitter.com/lucasdelsonn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lucas24al" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/lucasalmeida24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasalmeida24" height="20" width="20" /></a>
 <a href="https://www.facebook.com/lucasalmeida2410/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lucasalmeida2410" height="20" width="20" /></a>
-<a href="https://www.instagram.com/lucas29d/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lucas29d" height="20" width="20" /></a>
-<a href="https://www.freecodecamp.org/lucas24d" target="blank"><img align="center" src="https://img.icons8.com/windows/50/000000/free-code-camp.png" alt="lucas24d" height="20" width="20" /></a>
+<a href="https://www.instagram.com/lucasdelson24/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lucasdelson24" height="20" width="20" /></a>
+<a href="https://www.freecodecamp.org/lucasdelson" target="blank"><img align="center" src="https://img.icons8.com/windows/50/000000/free-code-camp.png" alt="lucas24d" height="20" width="20" /></a>
 </p>
