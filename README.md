@@ -9,7 +9,7 @@
 
 - 🎓 I’m currently studying Computer Engineering at **Catholic University of Angola**
 
-- 🌱 I’m currently learning **Clean Architecture, Haskell, Ruby, TDD**
+- 🌱 I’m currently learning **Clean Architecture, Haskell, Go, TDD**
 
 - 💬 Feel free to ask me about **Node.js, JavaScript, Java, C, TypeScript, Express.js, MongoDB, PostgreSQ, SpringBoot**
 
