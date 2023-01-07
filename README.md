@@ -8,19 +8,21 @@
 - 🔭 I’m currently working on **Bible App, Smart Business App, SAGA System**
 - 🎓 I’m currently studying Computer Engineering at **Catholic University of Angola**
 - 🌱 I’m currently learning **Clean Architecture, Haskell, Go, TDD**
-- 💬 Feel free to ask me about **Node.js, JavaScript, Java, TypeScript, Express.js, MongoDB, PostgreSQL, SpringBoot**
+- 💬 Feel free to ask me about **Java, Node.js, JavaScript, TypeScript, Express.js, MySQL, PostgreSQL, MongoDB, Spring Boot**
 - 📫 Feel free to reach me at my social medias or at **developer.lucas24@gmail.com**
 
 <h3>These are some of my skills:</h3>
 
-- [**Node.js**](https://nodejs.org/en/)
 - [**Java**](https://www.oracle.com/java/)
+- [**Spring Boot**](https://spring.io/projects/spring-boot)
+- [**Node.js**](https://nodejs.org/en/)
 - [**JavaScript**](https://www.javascript.com/)
 - [**TypeScript**](https://www.typescriptlang.org/)
 - [**Express.js**](https://expressjs.com/)
-- [**MongoDb**](https://www.mongodb.com/)
+- [**MySQL**](https://www.mysql.com/)
 - [**PostgreSQL**](https://www.postgresql.org/)
-- [**Spring Boot**](https://spring.io/projects/spring-boot)
+- [**MongoDB**](https://www.mongodb.com/)
+
 
 <br /><h3>Follow me on social medias so you can be part of my development.</h3>
 
