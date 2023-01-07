@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <div style="display: flex; flex-direction: column;">
     <h1>Hi 👋🏼, I'm Lucas Almeida</h1>
-    <h3 style="max-width: 512px;">Results-oriented programmer switching comfortably between architectures, design and implementation. Comfortable team work or self-directed environment.</h3>
+    <h4 style="max-width: 512px;">Results-oriented Developer with more than 2 years of experience in backend development, comfortable team work or self directed environment, strong problem solving and verbal and write communication skills, switching comfortable between architecture.</h3>
 </div>
 
 - 🔭 I’m currently working on **Bible App, Smart Business App, SAGA System**
@@ -11,17 +11,20 @@
 - 💬 Feel free to ask me about **Java, Node.js, JavaScript, TypeScript, Express.js, MySQL, PostgreSQL, MongoDB, Spring Boot**
 - 📫 Feel free to reach me at my social medias or at **developer.lucas24@gmail.com**
 
-<h3>These are some of my skills:</h3>
+<h4>I have experience in:</h3>
 
-- [**Java**](https://www.oracle.com/java/)
-- [**Spring Boot**](https://spring.io/projects/spring-boot)
-- [**Node.js**](https://nodejs.org/en/)
-- [**JavaScript**](https://www.javascript.com/)
-- [**TypeScript**](https://www.typescriptlang.org/)
-- [**Express.js**](https://expressjs.com/)
-- [**MySQL**](https://www.mysql.com/)
-- [**PostgreSQL**](https://www.postgresql.org/)
-- [**MongoDB**](https://www.mongodb.com/)
+- Java EE development with Spring Framework, JPA, Hibernate, Maven, Gradle;
+- REST APIs development (Spring, Express);
+- Node.js development with Express, Mongoose, Typescript;
+- Unit test development with JUnit, Mockito, Jest;
+- HTML, CSS, JavaScript, Thymeleaf;
+- MySQL, PostgreSQL, MongoDB database development;
+- Resport development with Apache POI, Poiji, JasperReport;
+- Documentation using Swagger UI;
+- Git, GitHub;
+- Linux;
+- Agile, Scrum Methodology
+Microservices and Clean Architecture Learner 🎯
 
 
 <br /><h3>Follow me on social medias so you can be part of my development.</h3>
