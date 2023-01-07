@@ -9,7 +9,7 @@
 - 🎓 I’m currently studying Computer Engineering at <em>Catholic University of Angola</em>
 - 🎯 I’m currently learning <em>Reactive Programming, Microservices, Clean Architecture, Haskell, Kotlin, TDD</em>
 - 💬 Feel free to ask me about <em>Java, Node.js, JavaScript, TypeScript, Express.js, MySQL, PostgreSQL, MongoDB, Spring Boot</em>
-- 📫 Feel free to reach me at my email: **developer.lucas24@gmail.com**
+- 📧 Feel free to contact me: <em>**developer.lucas24@gmail.com**</em>
 
 <h4>I have experience in:</h3>
 
