@@ -5,11 +5,11 @@
     <h4 style="max-width: 512px;">Results-oriented Developer with more than 2 years of experience in backend development, comfortable team work or self directed environment, strong problem solving and verbal and write communication skills, switching comfortable between architecture.</h3>
 </div>
 
-- 🔭 I’m currently working on **Bible App, Smart Business App, SAGA System**
-- 🎓 I’m currently studying Computer Engineering at **Catholic University of Angola**
-- 🎯 I’m currently learning **Reactive Programming, Microservices, Clean Architecture, Haskell, Kotlin, TDD**
-- 💬 Feel free to ask me about **Java, Node.js, JavaScript, TypeScript, Express.js, MySQL, PostgreSQL, MongoDB, Spring Boot**
-- 📫 Feel free to reach me at my social medias or at **developer.lucas24@gmail.com**
+- 👨🏽‍💻 I’m currently working at <em><a href="https://culysoft.com/">Culysoft</a></em>
+- 🎓 I’m currently studying Computer Engineering at <em>Catholic University of Angola</em>
+- 🎯 I’m currently learning <em>Reactive Programming, Microservices, Clean Architecture, Haskell, Kotlin, TDD</em>
+- 💬 Feel free to ask me about <em>Java, Node.js, JavaScript, TypeScript, Express.js, MySQL, PostgreSQL, MongoDB, Spring Boot</em>
+- 📫 Feel free to reach me at my email: **developer.lucas24@gmail.com**
 
 <h4>I have experience in:</h3>
 
