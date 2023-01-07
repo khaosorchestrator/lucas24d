@@ -6,13 +6,9 @@
 </div>
 
 - 🔭 I’m currently working on **Bible App, Smart Business App, SAGA System**
-
 - 🎓 I’m currently studying Computer Engineering at **Catholic University of Angola**
-
 - 🌱 I’m currently learning **Clean Architecture, Haskell, Go, TDD**
-
-- 💬 Feel free to ask me about **Node.js, JavaScript, Java, C, TypeScript, Express.js, MongoDB, PostgreSQ, SpringBoot**
-
+- 💬 Feel free to ask me about **Node.js, JavaScript, Java, TypeScript, Express.js, MongoDB, PostgreSQL, SpringBoot**
 - 📫 Feel free to reach me at my social medias or at **developer.lucas24@gmail.com**
 
 <h3>These are some of my skills:</h3>
