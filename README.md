@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bible App, Smart Business App, SAGA System**
 - 🎓 I’m currently studying Computer Engineering at **Catholic University of Angola**
-- 🌱 I’m currently learning **Reactive Programming, Microservices, Clean Architecture, Haskell, Kotlin, TDD**
+- 🎯 I’m currently learning **Reactive Programming, Microservices, Clean Architecture, Haskell, Kotlin, TDD**
 - 💬 Feel free to ask me about **Java, Node.js, JavaScript, TypeScript, Express.js, MySQL, PostgreSQL, MongoDB, Spring Boot**
 - 📫 Feel free to reach me at my social medias or at **developer.lucas24@gmail.com**
 
