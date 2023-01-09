@@ -21,9 +21,9 @@
 - MySQL, PostgreSQL, MongoDB database development;
 - Resport development with Apache POI, Poiji, JasperReport;
 - Documentation using Swagger UI;
+- Agile, Scrum Methodology
 - Git, GitHub;
 - Linux;
-- Agile, Scrum Methodology;
 
 
 <br /><h3>Follow me on social medias so you can be part of my development.</h3>
