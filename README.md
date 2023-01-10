@@ -19,7 +19,7 @@
 - Unit test development with JUnit, Mockito, Jest;
 - HTML, CSS, JavaScript, Thymeleaf, Markdown;
 - MySQL, PostgreSQL, MongoDB database development;
-- Resport development with Apache POI, Poiji, JasperReport;
+- Report development with Apache POI, Poiji, JasperReport;
 - Documentation using Swagger UI;
 - Agile, Scrum Methodology
 - Git, GitHub;
