@@ -24,6 +24,7 @@
 - Agile, Scrum Methodology
 - Git, GitHub;
 - Linux;
+- Microservices and Clean Architecture Learner 🎯
 
 
 <br /><h3>Follow me on social medias so you can be part of my development.</h3>
