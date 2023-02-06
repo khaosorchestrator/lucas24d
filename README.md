@@ -16,7 +16,7 @@
 - Java EE development with Spring Framework, JPA, Hibernate, Maven, Gradle;
 - REST APIs development (Spring, Express);
 - Node.js development with Express, Mongoose, Typescript;
-- Unit test development with JUnit, Mockito, Jest;
+- Unit and Integrated test development with JUnit, Mockito, Jest;
 - HTML, CSS, JavaScript, Thymeleaf, Markdown;
 - MySQL, PostgreSQL, MongoDB database development;
 - Report development with Apache POI, Poiji, JasperReport;
