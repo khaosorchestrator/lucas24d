@@ -23,7 +23,7 @@
 - Documentation using Swagger UI;
 - Agile, Scrum Methodology
 - Git, GitHub;
-- Linux;
+- Linux, Docker;
 - Microservices and Clean Architecture Learner 🎯
 
 
